@@ -1,1 +1,1 @@
-# eureka-server
+# discovery-server
